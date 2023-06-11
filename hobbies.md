@@ -9,7 +9,7 @@ title: Hobbies
 ## Neruda & diplomatic
 
 <div class="third">
-<img src="/images/diplomatic.jpg.JPG">
+<img src="/images/diplomatic.JPG">
 </div>
 
 <br>After returning to Chile, [Neruda was given diplomatic posts] in Buenos Aires and then **Barcelona, Spain**. 
