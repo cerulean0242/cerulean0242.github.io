@@ -24,20 +24,9 @@ The provinces of India, earlier presidencies of [British India],and still earlie
 
 
 <br>
-<!--
-<!--  Chat with me -->
--->
-<!-- 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me! -->
 
-<!-- Calendly inline widget begin -->
+<br>
 
-<!-- 
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script> 
-
--->
-<!-- Calendly inline widget end -->
+<br>
 
 
